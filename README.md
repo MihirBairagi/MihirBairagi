@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MihirBairagi
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React 
+- 👋 Hi, I’m @MihirBairagi 
+- 🌱 I’m currently a Web Developer
 - 📫 How to reach me - mihirbairagi10@gmail.com
 
 <!---
